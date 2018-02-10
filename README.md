@@ -1,1 +1,1 @@
-# root
+Mi chiamo [Filippo Albertin](http://www.filippoalbertin.com) e sono un musicista, pianista, tastierista, compositore e organizzatore culturale. Vivo a Vicenza e lavoro tra Vicenza e Padova. Da sempre appassionato di progettazione e creatività, ho vari spazi attivi sul web.
