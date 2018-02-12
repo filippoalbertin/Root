@@ -1,6 +1,10 @@
 # Chi Sono
 
-Mi chiamo [Filippo Albertin](http://www.filippoalbertin.com) e sono un musicista, pianista, tastierista, compositore e organizzatore culturale. Vivo a Vicenza e lavoro tra Vicenza e Padova. Da sempre appassionato di progettazione e creatività, ho vari spazi attivi sul web. Mi interesso anche di arte, politica, poesia, scrittura e progettazione.
+Mi chiamo [Filippo Albertin](http://www.filippoalbertin.com) e sono un musicista, pianista, tastierista, compositore e organizzatore culturale. Vivo a Vicenza e lavoro tra Vicenza e Padova. Da sempre appassionato di progettazione e creatività, ho vari spazi attivi sul web.
+
+-----
+
+Mi interesso anche di arte, politica, poesia, scrittura e progettazione.
 
 # Progetti Web
 
@@ -14,3 +18,11 @@ Mi chiamo [Filippo Albertin](http://www.filippoalbertin.com) e sono un musicista
 * [Le Piramidi Hanno gli Occhi](http://www.lintellettualedissidente.it/societa/piramidi-hanno-occhi-massoneria/)
 * [Contro le FEMEN](https://medium.com/ontologico-divergente/contro-le-femen-17e726b4d4bb)
 * [Giovani Adulti Inesistenti](https://medium.com/@filippoalbertin/giovani-adulti-inesistenti-187d97c66e8b)
+
+# Cose Che Mi Interessano
+
+* scrittura, poesia, journaling
+* disegno, sketchnote taking
+* musica colta specie tardoromantica e novecentesca
+* arti sceniche
+* esoterismo e pensiero simbolico
